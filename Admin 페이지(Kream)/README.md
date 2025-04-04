@@ -40,10 +40,3 @@ Bootstrap 5 기반으로 반응형 레이아웃과 다크모드, 모달 UI를 �
 - Bootstrap 5.3
 - JavaScript
 
----
-
-## 🧪 실행 방법
-
-1. 저장소를 클론합니다  
-   ```bash
-   git clone https://github.com/yourname/project.git
